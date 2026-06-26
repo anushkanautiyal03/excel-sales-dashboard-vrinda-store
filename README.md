@@ -1,4 +1,4 @@
-# Vrinda Store Sales Analysis 2023
+# Vrinda Store Sales Analysis 
 
 ## Project Overview
 Performed data cleaning, processing, and analysis on Vrinda Store's
