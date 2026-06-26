@@ -40,5 +40,3 @@ sales data to build an annual sales dashboard in Excel.
 - Pivot Charts
 - Slicers
 
-## Dashboard Preview
-[paste your dashboard screenshot here]
