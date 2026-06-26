@@ -31,7 +31,6 @@ sales data to build an annual sales dashboard in Excel.
 
 ## Dashboard Features
 - Interactive slicers (Month, Category, Channel)
-- KPI cards (Revenue, Orders, Delivery Rate)
 - Charts: Bar, Donut, Pie, Column
 
 ## Tools Used
